@@ -1,6 +1,9 @@
 [submodule "berti"]
 	path = berti
 	url = https://github.com/agusnt/Berti-Artifact
-[submodule "champsim"]
-	path = champsim
+[submodule "ChampSim"]
+	path = ChampSim
 	url = https://github.com/ChampSim/ChampSim
+[submodule "L1_only"]
+	path = L1_only
+	url = https://github.com/seongho79-jeong/L1_only_prefetcher
