@@ -1,6 +1,6 @@
 [submodule "berti"]
 	path = berti
-	url = https://github.com/agusnt/Berti-Artifact
+	url = https://github.com/seongho79-jeong/Berti-Artifact.git
 [submodule "ChampSim"]
 	path = ChampSim
 	url = https://github.com/ChampSim/ChampSim

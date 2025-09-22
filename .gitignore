@@ -1,6 +1,4 @@
-traces/cs/*
-traces/gap/*
-traces/spec2k17/*
+traces/*/*
 
 # Prerequisites
 *.d
