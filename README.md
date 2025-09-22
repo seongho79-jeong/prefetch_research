@@ -10,6 +10,17 @@
 ## Traces
 - gap : https://utexas.app.box.com/s/2k54kp8zvrqdfaa8cdhfquvcxwh7yn85/folder/132804598561
 - cs : https://www.dropbox.com/scl/fo/8bae1cls8b6lxppq1dhsf/AIyWkFMiZiNQfMJ7S6hll-c/CRC2_trace?rlkey=v8tcfxldwv2jtywdehkwu5kob&e=1&subfolder_nav_tracking=1&dl=0
+  - 아래 다섯가지만 cloudSuite로 valid 함. 위 주소의 traces중에 나머지는 spec으로 -cloudsuite 옵션 붙여서 실행하면 에러남.
+
+    ```c
+    elem = {
+            'cassandra': {},
+            'classification': {},
+            'cloud9': {},
+            'nutch': {},
+            'streaming': {}
+            }
+    ```
 
 # 환경 설정
 ## download spec2k17
