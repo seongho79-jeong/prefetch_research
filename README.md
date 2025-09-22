@@ -7,6 +7,10 @@
 ## private
 - L1_only : https://github.com/seongho79-jeong/L1_only_prefetcher
 
+## Traces
+- gap : https://utexas.app.box.com/s/2k54kp8zvrqdfaa8cdhfquvcxwh7yn85/folder/132804598561
+- cs : https://www.dropbox.com/scl/fo/8bae1cls8b6lxppq1dhsf/AIyWkFMiZiNQfMJ7S6hll-c/CRC2_trace?rlkey=v8tcfxldwv2jtywdehkwu5kob&e=1&subfolder_nav_tracking=1&dl=0
+
 # 환경 설정
 ## download spec2k17
 - berti의 script를 활용해서 설정
